@@ -1,11 +1,11 @@
 The App:
 
-Scans your photo folder.
-Generates image fingerprints/embeddings.
-Groups similar photos.
-Compares quality.
-Shows recommendations.
-Deletes or archives duplicates.
+1. Scans your photo folder.
+3. Generates image fingerprints/embeddings.
+4. Groups similar photos.
+5. Compares quality.
+6. Shows recommendations.
+7. Deletes or archives duplicates.
 
 Architecture:
 
