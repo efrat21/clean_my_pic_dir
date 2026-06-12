@@ -1,0 +1,5 @@
+.venv/
+.env
+example pics/
+tools/_pycache__/
+services/_pycache__/
